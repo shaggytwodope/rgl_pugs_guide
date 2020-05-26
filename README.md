@@ -1,27 +1,27 @@
-RGL.gg PUG Crash Course
+# RGL.gg PUG Crash Course
 
 Updated 5-15-2020
 ![](images/image1.png "Placeholder image")
 
-[Introduction](#introduction)        [2](#introduction)
+[Introduction](#introduction)
 
-[Prolander](#prolander)      [2](#prolander)
+- [Prolander](#prolander)
 
-[No Restriction 6s](#no-restriction-6s)      [3](#no-restriction-6s)
+- [No Restriction 6s](#no-restriction-6s)
 
-[Communication](#communication)        [4](#communication)
+[Communication](#communication)
 
-[Maps](#maps)       [5](#maps)
+[Maps](#maps)
 
-[Payload](#payload)       [5](#payload)
+- [Payload](#payload)
 
-[King Of The Hill](#h.koth)        [5](#h.koth)
+- [King Of The Hill](#king-of-the-hill)
 
-[5 Control Points](#5-control-points)       [5](#5-control-points)
+- [5 Control Points](#5-control-points)
 
-[Attack-Defend](#attack-defend)        [6](#attack-defend)
+- [Attack-Defend](#attack-defend)
 
-[Other Resources](#other-resources)        [6](#other-resources)
+[Other Resources](#other-resources)
 
 
 
@@ -133,23 +133,18 @@ Notes
 Communication with your teammates in pugs is absolutely vital. Before
 the pug starts it’s important to discuss what class everyone is playing,
 and making sure people are comfortable with the classes they’ve chosen.
-\
+
 When the pug starts, relaying important information to your team is
 important. Think about things your team might want to know, but
-doesn’t.\
-\
+doesn’t.
+
 Your setup
 
 Consider a push-to talk option to easily filter what you’re saying, or
 to spare teammates from background noise. On Discord, it is found under
 Settings → Voice and Video → Input mode.  You can also adjust your
-output volume here.\
-\
-\
-\
-\
+output volume here.
 
- 
 
 Damage Callouts and Focus Fire
 

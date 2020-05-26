@@ -1,7 +1,7 @@
 RGL.gg PUG Crash Course
 
-Updated 5-15-2020\
-![](images/image1.png)![](images/image1.png "Placeholder image")
+Updated 5-15-2020
+![](images/image1.png "Placeholder image")
 
 [Introduction](#introduction)        [2](#introduction)
 
@@ -59,13 +59,7 @@ The two formats played in pugs are described below.
 
 #### Prolander
 
-[Prolander](https://www.google.com/url?q=https://rgl.gg/?r%3D1%26&sa=D&ust=1590454678432000) is
-a format that has a class limit of 1, but a player limit of 7. There’s a
-high emphasis on class flexibility, as you can switch classes as needed
-to respond to the situation. Prolander plays similarly to Highlander,
-but the games are often faster paced. Classes played depends on the
-team, but it’s common for there to be a steady combo and a flank, with
-some people flexing as necessary.
+[Prolander](https://www.google.com/url?q=https://rgl.gg/?r%3D1%26&sa=D&ust=1590454678432000) is a format that has a class limit of 1, but a player limit of 7. There’s a high emphasis on class flexibility, as you can switch classes as needed to respond to the situation. Prolander plays similarly to Highlander, but the games are often faster paced. Classes played depends on the team, but it’s common for there to be a steady combo and a flank, with some people flexing as necessary.
 
 Prolander uses the RGL Prolander [whitelist](https://www.google.com/url?q=https://whitelist.tf/rgl_7v7_s8&sa=D&ust=1590454678432000), which restricts a small number of weapons from play considered overpowered or broken.
 

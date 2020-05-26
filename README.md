@@ -1,30 +1,30 @@
-RGL.gg PUG Crash Course\
-\
+RGL.gg PUG Crash Course
+
 Updated 5-15-2020\
 ![](images/image1.png)![](images/image1.png "Placeholder image")
 
-[Introduction](#h.u5vkzx3dn232)        [2](#h.intro)
+[Introduction](#h.intro)        [2](#h.intro)
 
-[Prolander](#h.6hg8g2mw0n83)        [2](#h.pro)
+[Prolander](#h.pro)      [2](#h.pro)
 
-[No Restriction 6s](#h.5wn63t9qbf31)        [3](#h.nr6)
+[No Restriction 6s](#h.nr6)      [3](#h.nr6)
 
-[Communication](#h.kp2jwfqj5ihr)        [4](#h.comms)
+[Communication](#h.comms)        [4](#h.comms)
 
-[Maps](#h.17wgl1z3vhhy)        [5](#h.maps)
+[Maps](#h.maps)       [5](#h.maps)
 
-[Payload](#h.dzur6liggi4n)        [5](#h.payload)
+[Payload](#h.payload)       [5](#h.payload)
 
-[King Of The Hill](#h.jjk3lv9pkx7l)        [5](#h.koth)
+[King Of The Hill](#h.koth)        [5](#h.koth)
 
-[5 Control Points](#h.2rfnon8hlaea)        [5](#h.cp)
+[5 Control Points](#h.cp)       [5](#h.cp)
 
-[Attack-Defend](#h.w2z2eoebjm5c)        [6](#h.ad)
+[Attack-Defend](#h.ad)        [6](#h.ad)
 
-[Other Resources](#h.kp2jwfqj5ihr)        [6](#h.other)
+[Other Resources](#h.other)        [6](#h.other)
 
 
-Introduction {#h.intro}
+# Introduction {#h.intro}
 ------------
 
 RGL PUGs are Pick-up Games hosted regularly in the RGL official Discord.
@@ -65,10 +65,7 @@ but the games are often faster paced. Classes played depends on the
 team, but it’s common for there to be a steady combo and a flank, with
 some people flexing as necessary.
 
-Prolander uses the RGL Prolander
-[whitelist](https://www.google.com/url?q=https://whitelist.tf/rgl_7v7_s8&sa=D&ust=1590454678432000),
-which restricts a small number of weapons from play considered
-overpowered or broken.\
+Prolander uses the RGL Prolander [whitelist](https://www.google.com/url?q=https://whitelist.tf/rgl_7v7_s8&sa=D&ust=1590454678432000), which restricts a small number of weapons from play considered overpowered or broken.
 
 #### No Restriction 6s {#h.nr6}
 

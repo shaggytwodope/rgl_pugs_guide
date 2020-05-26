@@ -3,28 +3,30 @@ RGL.gg PUG Crash Course
 Updated 5-15-2020\
 ![](images/image1.png)![](images/image1.png "Placeholder image")
 
-[Introduction](#h.intro)        [2](#h.intro)
+[Introduction](#introduction)        [2](#introduction)
 
-[Prolander](#h.pro)      [2](#h.pro)
+[Prolander](#prolander)      [2](#prolander)
 
-[No Restriction 6s](#h.nr6)      [3](#h.nr6)
+[No Restriction 6s](#no-restriction-6s)      [3](#no-restriction-6s)
 
-[Communication](#h.comms)        [4](#h.comms)
+[Communication](#communication)        [4](#communication)
 
-[Maps](#h.maps)       [5](#h.maps)
+[Maps](#maps)       [5](#maps)
 
-[Payload](#h.payload)       [5](#h.payload)
+[Payload](#payload)       [5](#payload)
 
 [King Of The Hill](#h.koth)        [5](#h.koth)
 
-[5 Control Points](#h.cp)       [5](#h.cp)
+[5 Control Points](#5-control-points)       [5](#5-control-points)
 
-[Attack-Defend](#h.ad)        [6](#h.ad)
+[Attack-Defend](#attack-defend)        [6](#attack-defend)
 
-[Other Resources](#h.other)        [6](#h.other)
+[Other Resources](#other-resources)        [6](#other-resources)
 
 
-# Introduction {#h.intro}
+
+
+# Introduction
 ------------
 
 RGL PUGs are Pick-up Games hosted regularly in the RGL official Discord.
@@ -55,7 +57,7 @@ like.
 
 The two formats played in pugs are described below.
 
-#### Prolander {#h.pro}
+#### Prolander
 
 [Prolander](https://www.google.com/url?q=https://rgl.gg/?r%3D1%26&sa=D&ust=1590454678432000) is
 a format that has a class limit of 1, but a player limit of 7. There’s a
@@ -67,15 +69,9 @@ some people flexing as necessary.
 
 Prolander uses the RGL Prolander [whitelist](https://www.google.com/url?q=https://whitelist.tf/rgl_7v7_s8&sa=D&ust=1590454678432000), which restricts a small number of weapons from play considered overpowered or broken.
 
-#### No Restriction 6s {#h.nr6}
+#### No Restriction 6s
 
-[No Restriction
-6s](https://www.google.com/url?q=https://rgl.gg/?r%3D37&sa=D&ust=1590454678432000) (NR6s)
-takes its inspiration from in-game competitive. This means you have six
-players on each team, but there are no class limits nor a weapon
-whitelist. The cosmetic
-[whitelist](https://www.google.com/url?q=https://whitelist.tf/rgl_nr6s_s3&sa=D&ust=1590454678433000)common
-to RGL is still used.
+[No Restriction 6s](https://www.google.com/url?q=https://rgl.gg/?r%3D37&sa=D&ust=1590454678432000) (NR6s) takes its inspiration from in-game competitive. This means you have six players on each team, but there are no class limits nor a weapon whitelist. The cosmetic [whitelist](https://www.google.com/url?q=https://whitelist.tf/rgl_nr6s_s3&sa=D&ust=1590454678433000) common to RGL is still used.
 
 Because there are no class restrictions or weapon limits, how NR6s is
 played depends highly on how the team decides to arrange themselves.
@@ -136,7 +132,7 @@ Notes
     supplied. It’s important to read the announcement for exp pugs, as
     it will have all the details of what’s going on.
 
-Communication {#h.comms}
+# Communication
 -------------
 
 Communication with your teammates in pugs is absolutely vital. Before
@@ -284,12 +280,9 @@ are all learning together.
 
  
 
-\
-\
 
- {#h.kbr4agk10wkr .c2}
 
-Maps {#h.maps}
+# Maps
 ----
 
 Diagrams of maps played in RGL pugs, linked to Imgur albums to avoid
@@ -303,7 +296,7 @@ If you want to help make these, or correct a mistake, join the server
 Download all nonstandard
 maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6TumiOAGi7RpWucZ15_JbvN3oLbTL/view?usp%3Dsharing&sa=D&ust=1590454678441000).
 
-#### Payload {#h.payload}
+#### Payload
 
 -   [Upward](https://www.google.com/url?q=https://imgur.com/a/ceZst3T&sa=D&ust=1590454678441000)
 -   Swiftwater
@@ -312,7 +305,7 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   Badwater Pro
 -   Barnblitz Pro
 
-#### King Of The Hill {#h.koth}
+#### King Of The Hill
 
 -   [Product (Pro
     Viaduct)](https://www.google.com/url?q=https://imgur.com/a/AiCwwqn&sa=D&ust=1590454678442000)
@@ -322,7 +315,7 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   Coalplant (Very similar to Ashville)
 -   Synthetic
 
-#### 5 Control Points {#h.cp}
+#### 5 Control Points
 
 -   Granary Pro
 -   Snakewater
@@ -332,13 +325,12 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   Villa
 -   Gullywash
 
-#### Attack-Defend {#h.ad}
+#### Attack-Defend
 
 -   Steel (Not currently played in regular PUGs)\
 
-####  {#h.kceatzqtvi6w .c1 .c13}
 
-Other Resources {#h.other}
+# Other Resources
 ---------------
 
 Resources

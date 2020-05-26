@@ -3,29 +3,28 @@ RGL.gg PUG Crash Course\
 Updated 5-15-2020\
 ![](images/image1.png)![](images/image1.png "Placeholder image")
 
-[Introduction](#h.u5vkzx3dn232)        [2](#h.u5vkzx3dn232)
+[Introduction](#h.u5vkzx3dn232)        [2](#h.intro)
 
-[Prolander](#h.6hg8g2mw0n83)        [2](#h.6hg8g2mw0n83)
+[Prolander](#h.6hg8g2mw0n83)        [2](#h.pro)
 
-[No Restriction 6s](#h.5wn63t9qbf31)        [3](#h.5wn63t9qbf31)
+[No Restriction 6s](#h.5wn63t9qbf31)        [3](#h.nr6)
 
-[Communication](#h.kp2jwfqj5ihr)        [4](#h.kp2jwfqj5ihr)
+[Communication](#h.kp2jwfqj5ihr)        [4](#h.comms)
 
-[Maps](#h.17wgl1z3vhhy)        [5](#h.17wgl1z3vhhy)
+[Maps](#h.17wgl1z3vhhy)        [5](#h.maps)
 
-[Payload](#h.dzur6liggi4n)        [5](#h.dzur6liggi4n)
+[Payload](#h.dzur6liggi4n)        [5](#h.payload)
 
-[King Of The Hill](#h.jjk3lv9pkx7l)        [5](#h.jjk3lv9pkx7l)
+[King Of The Hill](#h.jjk3lv9pkx7l)        [5](#h.koth)
 
-[5 Control Points](#h.2rfnon8hlaea)        [5](#h.2rfnon8hlaea)
+[5 Control Points](#h.2rfnon8hlaea)        [5](#h.cp)
 
-[Attack-Defend](#h.w2z2eoebjm5c)        [6](#h.w2z2eoebjm5c)
+[Attack-Defend](#h.w2z2eoebjm5c)        [6](#h.ad)
 
-[Other Resources](#h.kp2jwfqj5ihr)        [6](#h.kp2jwfqj5ihr)
+[Other Resources](#h.kp2jwfqj5ihr)        [6](#h.other)
 
- {#h.bx9gfnd3s7ob .c2}
 
-Introduction {#h.u5vkzx3dn232 .c20}
+Introduction {#h.intro}
 ------------
 
 RGL PUGs are Pick-up Games hosted regularly in the RGL official Discord.
@@ -56,7 +55,7 @@ like.
 
 The two formats played in pugs are described below.
 
-#### Prolander {#h.6hg8g2mw0n83 .c1}
+#### Prolander {#h.pro}
 
 [Prolander](https://www.google.com/url?q=https://rgl.gg/?r%3D1%26&sa=D&ust=1590454678432000) is
 a format that has a class limit of 1, but a player limit of 7. There’s a
@@ -71,7 +70,7 @@ Prolander uses the RGL Prolander
 which restricts a small number of weapons from play considered
 overpowered or broken.\
 
-#### No Restriction 6s {#h.5wn63t9qbf31 .c1}
+#### No Restriction 6s {#h.nr6}
 
 [No Restriction
 6s](https://www.google.com/url?q=https://rgl.gg/?r%3D37&sa=D&ust=1590454678432000) (NR6s)
@@ -140,7 +139,7 @@ Notes
     supplied. It’s important to read the announcement for exp pugs, as
     it will have all the details of what’s going on.
 
-Communication {#h.kp2jwfqj5ihr .c20}
+Communication {#h.comms}
 -------------
 
 Communication with your teammates in pugs is absolutely vital. Before
@@ -293,7 +292,7 @@ are all learning together.
 
  {#h.kbr4agk10wkr .c2}
 
-Maps {#h.17wgl1z3vhhy .c20}
+Maps {#h.maps}
 ----
 
 Diagrams of maps played in RGL pugs, linked to Imgur albums to avoid
@@ -307,7 +306,7 @@ If you want to help make these, or correct a mistake, join the server
 Download all nonstandard
 maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6TumiOAGi7RpWucZ15_JbvN3oLbTL/view?usp%3Dsharing&sa=D&ust=1590454678441000).
 
-#### Payload {#h.dzur6liggi4n .c1}
+#### Payload {#h.payload}
 
 -   [Upward](https://www.google.com/url?q=https://imgur.com/a/ceZst3T&sa=D&ust=1590454678441000)
 -   Swiftwater
@@ -316,7 +315,7 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   Badwater Pro
 -   Barnblitz Pro
 
-#### King Of The Hill {#h.jjk3lv9pkx7l .c1}
+#### King Of The Hill {#h.koth}
 
 -   [Product (Pro
     Viaduct)](https://www.google.com/url?q=https://imgur.com/a/AiCwwqn&sa=D&ust=1590454678442000)
@@ -326,7 +325,7 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   Coalplant (Very similar to Ashville)
 -   Synthetic
 
-#### 5 Control Points {#h.2rfnon8hlaea .c1}
+#### 5 Control Points {#h.cp}
 
 -   Granary Pro
 -   Snakewater
@@ -336,13 +335,13 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   Villa
 -   Gullywash
 
-#### Attack-Defend {#h.w2z2eoebjm5c .c1}
+#### Attack-Defend {#h.ad}
 
 -   Steel (Not currently played in regular PUGs)\
 
 ####  {#h.kceatzqtvi6w .c1 .c13}
 
-Other Resources {#h.kp2jwfqj5ihr-1 .c20}
+Other Resources {#h.other}
 ---------------
 
 Resources

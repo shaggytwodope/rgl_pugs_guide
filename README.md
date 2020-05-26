@@ -27,6 +27,7 @@ Updated 5-15-2020
 
 
 # Introduction
+
 ------------
 
 RGL PUGs are Pick-up Games hosted regularly in the RGL official Discord.
@@ -40,19 +41,19 @@ How to Join PUGs
 Go to
 [RGL.gg/pugs](https://www.google.com/url?q=https://rgl.gg/pugs&sa=D&ust=1590454678431000).
 That will give you an invite link to the Discord. Once you’ve joined,
-you need to go to the \#rules\_and\_setup channel and read the Discord
+you need to go to the `#rules_and_setup` channel and read the Discord
 rules, and follow the instructions for how to access the discord. Once
-you have access to the discord, go the \#pugs channel, and read the
+you have access to the discord, go the `#pugs` channel, and read the
 information there, including the rules, and react with the role you’d
 like.
 
--   Pugs: this gives you access to the base of pugs
--   Pugs Without Announcements: This gives you access to the base of
+- Pugs: this gives you access to the base of pugs
+- Pugs Without Announcements: This gives you access to the base of
     pugs, but with no announcements. Please note you have to remove the
     pugs role mentioned above to stop receiving announcements
--   Late Night Pugs: This gives you access to announcements for pugs
+- Late Night Pugs: This gives you access to announcements for pugs
     after 12:00pm EST
--   Experimental pugs: These are pugs where something is tested out,
+- Experimental pugs: These are pugs where something is tested out,
     like different maps or a different config.
 
 The two formats played in pugs are described below.
@@ -78,24 +79,24 @@ The Process of Pugs
 
 When pugs are announced you take the following steps to join the game
 
-1.  Join the voice channel “Pickup Waiting”. If spots are full, just
-    keep an eye out for openings or a second pug.\
+1. Join the voice channel “Pickup Waiting”. If spots are full, just
+    keep an eye out for openings or a second pug.
     Once you’re in Pickup Waiting you are guaranteed a spot in the next
     pug. Be patient, as some games may take longer to finish. When the
     game is finished, you will be automatically moved to the “Building
     game” channel.
-2.  Once you’re in “Building Game”, wait while the teams are sorted by
+2. Once you’re in “Building Game”, wait while the teams are sorted by
     an automatic system and the runner adds anyone not currently part of
-    that system. \
+    that system.
     If you have never played before you will be asked for your RGL
     profile. If you don’t have one, simply go to RGL.gg and sign in
     through steam.
-3.  Once teams are ready, you will be automatically sorted into either
+3. Once teams are ready, you will be automatically sorted into either
     the Red or Blu team channel. You will receive connect info for the
     server from a Discord bot.
-4.  Once in teams you should discuss your classes, and what you want to
+4. Once in teams you should discuss your classes, and what you want to
     do as a team, then Ready Up.
-5.  Once the pug is over, you will be moved back into ”Building Game”.
+5. Once the pug is over, you will be moved back into ”Building Game”.
     If you have to leave, now is the time to do so. If you want to stay
     for the next pug stay put. New players from pickup waiting will be
     pulled in, and if there’s too many people for one pug, some people
@@ -105,23 +106,23 @@ When pugs are announced you take the following steps to join the game
 
 Notes
 
--   Please tell the pug runner right away if you have any issues with
+- Please tell the pug runner right away if you have any issues with
     the pug.
--   “Sitting Out for a Round” is an AFK channel, and going in there will
+- “Sitting Out for a Round” is an AFK channel, and going in there will
     not get you in a pug.
--   If you are connected on a mobile device in pickup waiting, and you
+- If you are connected on a mobile device in pickup waiting, and you
     get moved, Discord will disconnect. As such, mobile Discord is not
     compatible with pugs until a patch is issued for this.
--   While you can be deafened in pickup waiting, you need to be
+- While you can be deafened in pickup waiting, you need to be
     undeafened in “Building Game”, or you may be assumed to be AFK.
--   Please do not move yourself from building game to pickup waiting at
+- Please do not move yourself from building game to pickup waiting at
     the end of the pug. It will skip the queueing system.
--   Experimental pugs (EXP PUGs) are pugs for testing new maps or
+- Experimental pugs (EXP PUGs) are pugs for testing new maps or
     changes to the config. With these pugs it’s important to keep in
     mind that setting them up will take longer, and will frequently be
     asked to provide feedback. While playing these pugs think about what
     does and doesn’t work.
--   Experimental PUGs are hosted as needed, so by their nature they will
+- Experimental PUGs are hosted as needed, so by their nature they will
     be infrequent. When maps are being tested download links will be
     supplied. It’s important to read the announcement for exp pugs, as
     it will have all the details of what’s going on.
@@ -156,10 +157,7 @@ The consensus among players is to round to ten on damage calls, trading
 off what is likely unnecessary precision to be faster and with lower
 chance of misinterpretation.  At higher levels, more precise numbers
 might prove appropriate. Sometimes line of sight may prevent you from
-giving actual [damage
-numbers](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVQoOqN32Vw0&sa=D&ust=1590454678436000) anyway,
-but they are always more useful than “hurt” or “rolled” if you know
-them.
+giving actual [damage numbers](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVQoOqN32Vw0&sa=D&ust=1590454678436000) anyway, but they are always more useful than “hurt” or “rolled” if you know them.
 
 If a target takes a lot of damage or is in a dangerous spot, the call
 might go out to focus them in hopes of securing a kill. Focuses are also
@@ -270,20 +268,15 @@ Finals words
 Remember to be kind and have fun. Your teammates are people too, and you
 are all learning together.
 
- 
-
- 
-
-
-
 # Maps
+
 ----
 
 Diagrams of maps played in RGL pugs, linked to Imgur albums to avoid
 cluttering up the document. Remember to check the Imgur description for
 additional details.
 
-Still in the works! \
+Still in the works!
 If you want to help make these, or correct a mistake, join the server
 [here.](https://www.google.com/url?q=https://discord.gg/atjXF8w&sa=D&ust=1590454678440000)
 
@@ -329,32 +322,24 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 
 Resources
 
-[comp.tf](https://www.google.com/url?q=http://comp.tf/wiki/Main_Page&sa=D&ust=1590454678444000) -
- Wiki style resource for all things competitive
+[comp.tf](https://www.google.com/url?q=http://comp.tf/wiki/Main_Page&sa=D&ust=1590454678444000) -  Wiki style resource for all things competitive
 
-[Engineer.tf](https://www.google.com/url?q=http://engineer.tf/&sa=D&ust=1590454678444000) -
-Map reviews, mentoring, and discussion for the engineer class
+[Engineer.tf](https://www.google.com/url?q=http://engineer.tf/&sa=D&ust=1590454678444000) - Map reviews, mentoring, and discussion for the engineer class
 
 Tools
 
-[logs.tf](https://www.google.com/url?q=http://logs.tf&sa=D&ust=1590454678445000) -
-This plugin uploads stats automatically, and can be viewed after playing
+[logs.tf](https://www.google.com/url?q=http://logs.tf&sa=D&ust=1590454678445000) - This plugin uploads stats automatically, and can be viewed after playing
 
-[Teamtrack](https://www.google.com/url?q=https://teamtrack.azurewebsites.net/%23/home&sa=D&ust=1590454678445000) -
-Tracks stats by team
+[Teamtrack](https://www.google.com/url?q=https://teamtrack.azurewebsites.net/%23/home&sa=D&ust=1590454678445000) - Tracks stats by team
 
 Youtube Channels
 
-[Mr. Slin’s
-Youtube](https://www.google.com/url?q=https://www.youtube.com/channel/UCd2ou70BQcHDLnlJ_qnLslw&sa=D&ust=1590454678446000)
+[Mr. Slin’s Youtube](https://www.google.com/url?q=https://www.youtube.com/channel/UCd2ou70BQcHDLnlJ_qnLslw&sa=D&ust=1590454678446000)
 
 Organizations
 
-[Newbie
-Mixes](https://www.google.com/url?q=https://steamcommunity.com/groups/na6v6newbiemix&sa=D&ust=1590454678447000) -
-An introduction to 6v6 competitive.
+[Newbie Mixes](https://www.google.com/url?q=https://steamcommunity.com/groups/na6v6newbiemix&sa=D&ust=1590454678447000) - An introduction to 6v6 competitive.
 
-[TF2Center](https://www.google.com/url?q=https://tf2center.com/&sa=D&ust=1590454678447000) -
-A place to play TF2 games based on specific competitive game-modes.
+[TF2Center](https://www.google.com/url?q=https://tf2center.com/&sa=D&ust=1590454678447000) - A place to play TF2 games based on specific competitive game-modes.
 
 

@@ -36,7 +36,7 @@ players of all skill levels, and are balanced based on players’ skill
 and experience. For how long an individual PUG should take, setting
 aside an hour of time is suggested.
 
-How to Join PUGs
+**How to Join PUGs**
 
 Go to
 [RGL.gg/pugs](https://www.google.com/url?q=https://rgl.gg/pugs&sa=D&ust=1590454678431000).
@@ -75,7 +75,7 @@ such as temporarily have a second engie to get buildings up quickly
 during setup time, or being able to counter pick based on what the enemy
 team is running.
 
-The Process of Pugs
+**The Process of Pugs**
 
 When pugs are announced you take the following steps to join the game
 
@@ -104,7 +104,7 @@ When pugs are announced you take the following steps to join the game
 
 * * * * *
 
-Notes
+**Notes**
 
 - Please tell the pug runner right away if you have any issues with
     the pug.
@@ -138,7 +138,7 @@ When the pug starts, relaying important information to your team is
 important. Think about things your team might want to know, but
 doesn’t.
 
-Your setup
+**Your setup**
 
 Consider a push-to talk option to easily filter what you’re saying, or
 to spare teammates from background noise. On Discord, it is found under
@@ -146,7 +146,7 @@ Settings → Voice and Video → Input mode.  You can also adjust your
 output volume here.
 
 
-Damage Callouts and Focus Fire
+**Damage Callouts and Focus Fire**
 
 The consensus among players is to round to ten on damage calls, trading
 off what is likely unnecessary precision to be faster and with lower
@@ -158,7 +158,7 @@ If a target takes a lot of damage or is in a dangerous spot, the call
 might go out to focus them in hopes of securing a kill. Focuses are also
 excellent for quickly cleaning up teamfights.
 
-Deaths
+**Deaths**
 
 Opponents’ deaths are exploitable. tf\_use\_match\_hud, which is enabled
 by default, shows this information at the top of your screen, but it
@@ -189,7 +189,7 @@ accordingly. \
 Ex: “Your scout died. You have no flank right now, so soldier might try
 something”.
 
-Ubers
+**Ubers**
 
 Uber is the most powerful ability in the game, and it dictates the tempo
 of every fight and every match.
@@ -204,7 +204,7 @@ Uber can be built up is 40 seconds. Spy can also tell his team the exact
 percentage of the enemy charge. Be sure to remember this when playing
 either class.
 
-Enemies and their Locations
+**Enemies and their Locations**
 
 It is good that everyone knows where the enemy team is and what they are
 up to.
@@ -231,19 +231,19 @@ example, you could tell your team that the enemy heavy is guarding their
 sniper, or that there’s a soldier about to kill our medic and would
 someone please do something about it.
 
-Spy
+**Spy**
 
 Because of spies’ disguises and the speed at which you must react to him
 to avoid someone getting stabbed, Spy is a special case. The generally
 accepted format is “Spy [His disguise] [His location or target]”. Ex:
 “Spy Scout on our medic”.
 
-Your location
+**Your location**
 
 If you want to meet up with your team or receive arrow heals from your
 medic, it might be useful to communicate where you are on the map.
 
-More advanced plans
+**More advanced plans**
 
 Finally, you can form plans with your team for upcoming engagements.
 Unfortunately, the topic is too complex to cover here and would probably
@@ -258,7 +258,7 @@ As long as everyone has a general idea of what everyone else is
 currently doing (ie attacking, retreating), even subpar plays can turn
 into gold. Keep it simple.
 
-Finals words
+**Final words**
 
 Remember to be kind and have fun. Your teammates are people too, and you
 are all learning together.
@@ -296,6 +296,7 @@ maps [here](https://www.google.com/url?q=https://drive.google.com/file/d/1oVR6T
 -   [Ashville](https://www.google.com/url?q=https://imgur.com/a/IejucHC&sa=D&ust=1590454678442000)
 -   Coalplant (Very similar to Ashville)
 -   Synthetic
+-   [Clearcut](Clearcut.md)
 
 #### 5 Control Points
 
@@ -335,6 +336,6 @@ Organizations
 
 [Newbie Mixes](https://www.google.com/url?q=https://steamcommunity.com/groups/na6v6newbiemix&sa=D&ust=1590454678447000) - An introduction to 6v6 competitive.
 
-[TF2Center](https://www.google.com/url?q=https://tf2center.com/&sa=D&ust=1590454678447000) - A place to play TF2 games based on specific competitive game-modes.
+[TF2Center](https://www.google.com/url?q=https://tf2center.com/&sa=D&ust=1590454678447000) - Join up to competitive lobbies for 6s or HL.
 
 
